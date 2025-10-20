@@ -11,3 +11,8 @@ Practice clean, readable, and efficient code
 Build a personal reference for algorithmic thinking
 
 Track progress through the freeCodeCamp curriculum
+
+
+⭐ Acknowledgments
+
+Thanks to freeCodeCamp for providing one of the best free resources for learning programming!
